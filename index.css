@@ -57,4 +57,12 @@ body {
     height: 45px;
     font-size: 18px;
     font-weight: 400;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+
+.btn-format:hover {
+    background-color: #9AABD8;
+    color: #1B244A;
 }
